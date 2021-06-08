@@ -5,3 +5,13 @@ kiwisolver
 numpy
 pyparsing
 six
+wheel
+setuptools
+pyparsing
+distro
+docopt
+requests
+idna
+chardet
+urllib3
+certifi
