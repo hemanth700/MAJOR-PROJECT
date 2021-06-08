@@ -26,4 +26,4 @@ toktok
 stopwords
 vaderSentiment
 streamlit
-soup
+kaggle
