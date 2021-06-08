@@ -17,7 +17,7 @@ urllib3
 certifi
 ngrok
 bs4
-BeautifulSoup
+beautifulsoup4
 pandas
 unicode
 nltk
