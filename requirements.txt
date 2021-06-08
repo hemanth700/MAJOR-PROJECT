@@ -15,3 +15,15 @@ idna
 chardet
 urllib3
 certifi
+ngrok
+bs4
+BeautifulSoup
+pandas
+unicode
+nltk
+tokenize
+toktok
+stopwords
+vaderSentiment
+streamlit
+soup
