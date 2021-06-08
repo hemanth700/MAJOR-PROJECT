@@ -21,7 +21,7 @@ beautifulsoup4
 pandas
 unicode
 nltk
-tokenize
+tokenizer
 toktok
 stopwords
 vaderSentiment
