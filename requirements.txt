@@ -4,4 +4,4 @@ cycler
 kiwisolver
 numpy
 pyparsing
-six in
+six
