@@ -150,7 +150,7 @@ def preprocessing(reviews):
 
 #sidebar program
 def sidebar ():
-    col1, col2, col3 = st.sidebar.beta_columns([1, 1, 1])
+    col1, col2, col3 = st.sidebar.beta_columns([100, 100, 3])
     col2.image('logo.jpg', width=200)
 
     expander = st.sidebar.beta_expander('About Us')
