@@ -151,7 +151,7 @@ def preprocessing(reviews):
 #sidebar program
 def sidebar ():
     col1, col2, col3 = st.sidebar.beta_columns([1, 1, 1])
-    col2.image('logo.jpg', width=80)
+    col2.image('logo.png', width=80)
 
     expander = st.sidebar.beta_expander('About Us')
     expander.markdown("""In this app we have tried to do sentimental analysis on reviews in  Flipkart :
