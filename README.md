@@ -1,4 +1,4 @@
-# Major-Project
+# MAJOR PROJECT
 
 ## Data
 In this project we scrapped flipkart website and for link [Click Here](https://www.flipkart.com/), and extracted products list, their images and reviews.
