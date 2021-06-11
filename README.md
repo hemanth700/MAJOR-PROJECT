@@ -10,4 +10,4 @@ Then the code is made for better visualization by creating streamlit webapp.
 
 ## Heroku 
 Finally the app is deployed in heroku and the final deployed link is here:
-https://flipkart-sentimental-analysiss.herokuapp.com/
+https://major-flipkart-sentiment.herokuapp.com/
